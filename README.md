@@ -14,4 +14,6 @@ An optimised site for search engines
 * Image and icon elements contain accessible `alt` attributes
 * Title elements contain a concise, descriptive title
 
-
+## Implementation
+The functionality as described above is implimented to achieve the user criteria.
+The completed project can be viewed via this link: https://ernest-mbikan.github.io/Code-Refactor-Challenge .
